@@ -1,0 +1,28 @@
+name: benitobooks.com
+favicon: null
+layout_spectrum: 0.3973875062074512
+typography_spectrum: 0.47212182520888746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9207995100878179
+  lightness: 0.7570065048057586
+  saturation: 0.9868900354485959
+  rhythmicContrast: 0.4225609009154141
+purpose: []

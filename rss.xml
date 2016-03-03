@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[benitobooks.com]]></title>
+        <description><![CDATA[benitobooks.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 20:52:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This isa test]]></title>
+            <description><![CDATA[<article><h1>This isa test</h1><p>copy here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1bf0b214c3fefe0ac32eb3caa6aafcea104a23.png"></article>]]></description>
+            <link>undefinedthis-isa-test/index.html</link>
+            <guid isPermaLink="false">e9ae1be0-8238-4737-b851-c76a75450c7e</guid>
+            <pubDate>Thu, 03 Mar 2016 20:52:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
